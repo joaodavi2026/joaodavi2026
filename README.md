@@ -20,7 +20,6 @@
 
 <!-- Troque YOUR-INSTANCE pela URL da sua instância na Vercel (Fase 2). -->
 
-<!-- SNAKE (ative após a Action rodar verde):
 <div align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)"
@@ -31,7 +30,6 @@
     src="https://raw.githubusercontent.com/joaodavi2026/joaodavi2026/output/github-snake.svg" />
 </picture>
 </div>
--->
 
 <div align="center">
 <a href="https://www.linkedin.com/in/jo%C3%A3o-davi-m-oliveira-1608533a7/">
