@@ -1,11 +1,5 @@
 <div align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/joaodavi2026/joaodavi2026/main/dark.svg">
-  <source media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/joaodavi2026/joaodavi2026/main/light.svg">
-  <img alt="João Davi Moreno Oliveira" src="https://raw.githubusercontent.com/joaodavi2026/joaodavi2026/main/light.svg">
-</picture>
+<img alt="João Davi Moreno Oliveira" src="https://raw.githubusercontent.com/joaodavi2026/joaodavi2026/main/dark.svg">
 </div>
 
 ## 🧭 Como navegar por aqui
@@ -42,14 +36,7 @@ Sou estudante de Administração e Engenharia da Computação, em São Paulo. Aq
 <!-- Troque YOUR-INSTANCE pela URL da sua instância na Vercel (Fase 2). -->
 
 <div align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/joaodavi2026/joaodavi2026/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/joaodavi2026/joaodavi2026/output/github-snake.svg" />
-  <img alt="Snake eating my contributions"
-    src="https://raw.githubusercontent.com/joaodavi2026/joaodavi2026/output/github-snake.svg" />
-</picture>
+<img alt="Snake eating my contributions" src="https://raw.githubusercontent.com/joaodavi2026/joaodavi2026/output/github-snake-dark.svg" />
 </div>
 
 <div align="center">
