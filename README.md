@@ -22,6 +22,7 @@ Sou estudante de Administração e Engenharia da Computação, em São Paulo. Aq
 | IA e Agentes | [Grab Jiu-Jitsu Agent](https://github.com/joaodavi2026/IA-GrabJiuJitsu-Atendimento-WhatsApp) | Atendimento via WhatsApp com Google Gemini e dashboard |
 | IA e Pagamentos | [AgentPay (testes)](https://github.com/joaodavi2026/IA-AgentPay-Autorizacao-de-Compras) | Autorização de compras feitas por agentes de IA |
 | Sites | [Oliver Network](https://github.com/joaodavi2026/Sites-OliverNetwork-MSP) | Site institucional de TI, Telecom e MSP em Next.js |
+| Sites | [Veloce Landing Page](https://github.com/joaodavi2026/Sites-Veloce-LandingPage) | Landing page da Veloce ([ver ao vivo](https://velocelandingpage.vercel.app)) |
 
 <div align="center">
 <img width="100%" src="https://streak-stats.demolab.com/?user=joaodavi2026&hide_border=true&background=0A101F&stroke=22D3EE&ring=A78BFA&fire=10B981&currStreakLabel=22D3EE&sideLabels=64748B&currStreakNum=F8FAFC&sideNums=64748B&dates=64748B&titleColor=22D3EE&card_width=1180" alt="streak" />
