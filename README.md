@@ -25,7 +25,7 @@ Sou estudante de Administração e Engenharia da Computação, em São Paulo. Aq
 | Sites | [Veloce Landing Page](https://github.com/joaodavi2026/Sites-Veloce-LandingPage) | Landing page da Veloce ([ver ao vivo](https://velocelandingpage.vercel.app)) |
 
 <div align="center">
-<img width="100%" src="https://streak-stats.demolab.com/?user=joaodavi2026&hide_border=true&background=0A101F&stroke=22D3EE&ring=A78BFA&fire=10B981&currStreakLabel=22D3EE&sideLabels=64748B&currStreakNum=F8FAFC&sideNums=64748B&dates=64748B&titleColor=22D3EE&card_width=1180" alt="streak" />
+<img width="100%" src="https://streak-stats.demolab.com/?user=joaodavi2026&v=20261117&hide_border=true&background=0A101F&stroke=22D3EE&ring=A78BFA&fire=10B981&currStreakLabel=22D3EE&sideLabels=64748B&currStreakNum=F8FAFC&sideNums=64748B&dates=64748B&titleColor=22D3EE&card_width=1180" alt="streak" />
 <br/>
 <!-- STATS (ative após a Vercel):
 <img width="49%" src="https://YOUR-INSTANCE.vercel.app/api?username=joaodavi2026&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&hide_rank=true&title_color=22D3EE&icon_color=A78BFA&text_color=94A3B8&bg_color=0A101F&card_width=500" alt="stats" />
